@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Gruxeon2507&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gruxeon2507&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Gruxeon2507&icon=2&color=0)](https://visitcount.itsvg.in)![](https://raw.githubusercontent.com/Gruxeon2507/cf-stats/main/output/max_rating.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--  --> 

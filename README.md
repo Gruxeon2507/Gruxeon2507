@@ -59,8 +59,8 @@
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gruxeon2507&theme=dark&hide_border=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gruxeon2507&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gruxeon2507&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gruxeon2507&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"  alt="0xabdulkhalid"/>
 </a>
 </div>
 

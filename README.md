@@ -3,8 +3,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-## <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 🔭 I’m currently working on Back-end Web Development and hopefully Full-stack soon <br>👯 I’m looking to collaborate on Web Project<br>🌱 I’m currently learning Spring Boot and ASP.NET<br>
 
 

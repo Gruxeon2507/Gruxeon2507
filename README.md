@@ -3,7 +3,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-🔭 I’m currently working on Back-end Web Development and hopefully Full-stack soon <br>👯 I’m looking to collaborate on Web Project<br>🌱 I’m currently learning Spring Boot and ASP.NET<br>
+***Greetings! I am a university student with a keen interest in backend development and competitive programming. I am currently immersed in the world of web development, exploring the intricacies of creating robust and efficient back-end systems***
+
+🔭 I’m actively engaged in the field of back-end web development and have aspirations to become a full-stack developer. <br>👯 I’m looking to collaborate on Web Project<br>🌱 I’m currently learning Spring Boot and ASP.NET<br>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
